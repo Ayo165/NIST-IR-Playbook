@@ -33,6 +33,3 @@ This script programmatically generates randomized security scenarios (e.g., a ra
 
 ## 💡 Conclusion
 Writing a policy is only the first step; testing it proves its value. This project highlights the importance of bridging governance with practical operations. By combining the NIST IR framework with automated tabletop testing, I ensured that the incident response plan is both compliant with industry standards and functionally effective in a simulated crisis.
-
----
-*Note: The completed IR Playbook document (PDF) and the Python Inject Generator script are available in this repository.*
